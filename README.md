@@ -8,7 +8,7 @@
 - ​Ensuring the infrastructure remains in the "Desired State."
 
 ### ​Key Technical Features
-​- **Idempotency:** Designed to ensure that healing actions don't create "thundering herd" issues.
+- **Idempotency:** Designed to ensure that healing actions don't create "thundering herd" issues.
 - **​Observability:** Dashboard implemented for consolidated viewing of metrics
 - ​**Modular Design:** Easily portable to different cloud provider environments.
 
